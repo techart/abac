@@ -1,0 +1,10 @@
+---
+attributes:
+    country:
+        class: TechartAbac\Example\Country
+        type: resource
+        fields:
+            name:
+                name: Nom du pays
+            code:
+                name: Code international
